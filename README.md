@@ -7,5 +7,5 @@ Se utilizó para desarrollar las principales tareas y funciones que me fueron so
 
 Para mayor información: 
 
-ecoronado@centrogeo.edu.mx
-e.coronadoj@gmail.com
+- ecoronado@centrogeo.edu.mx
+- e.coronadoj@gmail.com
